@@ -18,6 +18,7 @@
         Me.temperature = temperature
         Me.humidity = humidity
         Me.pressure = pressure
+        REM Testing purposes
         Display()
     End Sub
 End Class
